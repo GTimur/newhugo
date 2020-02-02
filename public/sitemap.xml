@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2020-01-31T23:57:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/about/</loc>
+    <lastmod>2020-01-31T23:57:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-01-31T23:57:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/hugo/</loc>
+    <lastmod>2020-01-31T23:57:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-01-31T23:57:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-01-31T23:57:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/first/</loc>
+    <lastmod>2020-01-31T15:04:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/first/</loc>
+    <lastmod>2020-01-31T15:04:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2020-01-31T15:04:05+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/second/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/second/</loc>
+    <lastmod>2020-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

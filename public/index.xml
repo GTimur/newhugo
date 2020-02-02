@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SEA PROJECT</title>
+    <link>http://example.org/</link>
+    <description>Recent content on SEA PROJECT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <copyright>Everything is mine</copyright>
+    <lastBuildDate>Fri, 31 Jan 2020 23:57:15 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Fri, 31 Jan 2020 23:57:15 +0300</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>about me Hi there, you just reached my blog.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/post/first/</link>
+      <pubDate>Fri, 31 Jan 2020 15:04:05 +0300</pubDate>
+      
+      <guid>http://example.org/post/first/</guid>
+      <description>Hi there. My first Hugo post</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://example.org/post/second/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/second/</guid>
+      <description>Мой второй пост в HUGO.</description>
+    </item>
+    
+  </channel>
+</rss>

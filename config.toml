@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "ru-ru"
+title = "SEA PROJECT"
+theme = "mango"
+DefaultContentLanguage = "ru"
+copyright = "Everything is mine"
+
